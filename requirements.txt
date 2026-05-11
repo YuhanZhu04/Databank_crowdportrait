@@ -1,0 +1,7 @@
+pandas
+requests
+websockets
+rookipy
+openpyxl
+re
+time
